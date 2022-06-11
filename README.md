@@ -13,6 +13,12 @@ Je lutte chaque jour pour l’accessibilité. Dans mon monde idéal, tout doit �
 
 - [Comment sous-titrer vos vidéos et vos podcasts et avec quels outils ?](https://github.com/emma11y/sous-titres)
 
+### Codes
+
+J'ai adapté les composants riches de W3C en Angular
+
+- [W3C's Select-Only Combobox in Angular](https://stackblitz.com/edit/emma11y-combobox-select-only-from-w3c?file=src%2Fapp%2Fapp.component.ts)
+
 ### Articles
 
 - [2019 - Comment bien sous-titrer les vidéos ? - 24 jours de web](https://www.24joursdeweb.fr/2019/comment-bien-sous-titrer-les-videos/)
