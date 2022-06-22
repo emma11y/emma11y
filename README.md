@@ -1,6 +1,6 @@
 # Emmanuelle ABOAF
 
-### Présentation
+## Présentation
 
 Je suis développeuse Angular .NET chez [Dcube](https://www.dcube.fr), sourde de naissance avec deux implants cochléaires.
 
