@@ -2,8 +2,6 @@
 
 ### Présentation
 
-### Bonjour, je suis Emmanuelle ABOAF 👋
-
 Je suis développeuse Angular .NET chez [Dcube](https://www.dcube.fr), sourde de naissance avec deux implants cochléaires.
 
 Je lutte chaque jour pour l’accessibilité. Dans mon monde idéal, tout doit être accessible aussi bien dans la vraie vie que dans le Web.
@@ -13,11 +11,7 @@ Je lutte chaque jour pour l’accessibilité. Dans mon monde idéal, tout doit �
 - [Twitter](https://twitter.com/eaboaf_)
 - [LinkedIn](https://www.linkedin.com/in/emmanuelle-aboaf-274b5234/)
 
-### Référentiels
-
-- [Comment sous-titrer vos vidéos et vos podcasts et avec quels outils ?](https://github.com/emma11y/sous-titres)
-
-## Développements
+## Développement
 
 ### Projets
 
@@ -29,10 +23,17 @@ J'ai adapté les composants riches de W3C en Angular
 
 - [W3C's Select-Only Combobox in Angular](https://stackblitz.com/edit/emma11y-combobox-select-only-from-w3c?file=src%2Fapp%2Fapp.component.ts)
 
-## Articles
+## Articles et référentiels
+
+### Articles
 
 - [2019 - Comment bien sous-titrer les vidéos ? - 24 jours de web](https://www.24joursdeweb.fr/2019/comment-bien-sous-titrer-les-videos/)
 - [2015 - Codez accessible - 24 jours de web](https://www.24joursdeweb.fr/2015/codez-accessible/)
+
+### Référentiels
+
+- [Comment sous-titrer vos vidéos et vos podcasts et avec quels outils ?](https://github.com/emma11y/sous-titres)
+
 
 ## Conférences
 
