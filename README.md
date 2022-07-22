@@ -15,13 +15,14 @@ Je lutte chaque jour pour l’accessibilité. Dans mon monde idéal, tout doit �
 
 ### Projets
 
-- [Projet Speech-To-Text en Angular avec 4 APIs différents (Deepgram, Google, Microsoft et Mozilla)](https://github.com/emma11y/https://github.com/emma11y/speech-to-text)
+- [Projet Speech-To-Text en Angular avec 4 APIs différents (Deepgram, Google, Microsoft et Mozilla)](https://github.com/emma11y/speech-to-text)
 
 ### Stackblitz
 
 J'ai adapté les composants riches de W3C en Angular
 
 - [W3C's Select-Only Combobox in Angular](https://stackblitz.com/edit/emma11y-combobox-select-only-from-w3c?file=src%2Fapp%2Fapp.component.ts)
+- [W3C's Auto-Rotating Image carrousel with Tabs for Slide Control in Angular](https://stackblitz.com/edit/emma11y-carousel-tablist-from-w3c?file=src%2Fapp%2Fapp.component.ts)
 
 ## Articles et référentiels
 
@@ -39,6 +40,7 @@ J'ai adapté les composants riches de W3C en Angular
 
 ### Vidéos 
 
+- [2022 - API Speech-To-Text : quelles sont ses avantages et ses limites ?](https://www.youtube.com/watch?v=gEwFhuqoz_A)
 - [2021 - Témoignages - Paris Web](https://www.paris-web.fr/2021/conferences/temoignages.php)
 - [2021 - Comment débuter dans l'accessibilité numérique ? - AccessiibilityCon](https://www.youtube.com/watch?v=MJwkEYn0kuU&feature=youtu.be)
 - [2019 - Comment rendre les supports multimédias accessibles à tous ? - Paris Web](https://www.paris-web.fr/2019/conferences/comment-rendre-les-supports-multimedias-accessibles-a-tous.php)
