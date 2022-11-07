@@ -9,7 +9,8 @@ Je lutte chaque jour pour l’accessibilité. Dans mon monde idéal, tout doit �
 ### Réseaux sociaux
 
 - [Twitter](https://twitter.com/eaboaf_)
-- [LinkedIn](https://www.linkedin.com/in/emmanuelle-aboaf-274b5234/)
+- [LinkedIn](https://www.linkedin.com/in/emmanuelle-aboaf/)
+- [Mastodon](https://a11y.info/@eaboaf)
 
 ## Développement
 
