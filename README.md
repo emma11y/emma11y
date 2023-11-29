@@ -2,21 +2,24 @@
 
 ## Présentation
 
-Je suis développeuse Angular .NET chez [Dcube](https://www.dcube.fr), sourde de naissance avec deux implants cochléaires.
+Je suis développeuse Angular .NET chez [Shodo](https://www.shodo.io), sourde de naissance avec deux implants cochléaires.
 
 Je lutte chaque jour pour l’accessibilité. Dans mon monde idéal, tout doit être accessible aussi bien dans la vraie vie que dans le Web.
+
+Consulter mon [site perso](https://emmanuelle-aboaf.netlify.app/)
 
 ### Réseaux sociaux
 
 - [Twitter](https://twitter.com/eaboaf_)
 - [LinkedIn](https://www.linkedin.com/in/emmanuelle-aboaf/)
 - [Mastodon](https://a11y.info/@eaboaf)
+- [BlueSky](https://bsky.app/profile/eaboaf.bsky.social)
 
 ## Développement
 
 ### Projets
 
-- [Projet Speech-To-Text en Angular avec 4 APIs différents (Deepgram, Google, Microsoft et Mozilla)](https://github.com/emma11y/speech-to-text)
+- [Projet Speech-To-Text en Angular avec 4 APIs différents (Deepgram, Google, Microsoft, Mozilla et Whisper)](https://github.com/emma11y/speech-to-text)
 
 ### Stackblitz
 
@@ -29,6 +32,7 @@ J'ai adapté les composants riches de W3C en Angular
 
 ### Articles
 
+- [2023 - Comment bien sous-titrer les vidéos ? La suite](https://emmanuelle-aboaf.netlify.app/blog/article/comment-bien-sous-titrer-vos-videos)
 - [2019 - Comment bien sous-titrer les vidéos ? - 24 jours de web](https://www.24joursdeweb.fr/2019/comment-bien-sous-titrer-les-videos/)
 - [2015 - Codez accessible - 24 jours de web](https://www.24joursdeweb.fr/2015/codez-accessible/)
 
@@ -36,8 +40,9 @@ J'ai adapté les composants riches de W3C en Angular
 
 - [Comment sous-titrer vos vidéos et vos podcasts et avec quels outils ?](https://github.com/emma11y/sous-titres)
 
-
 ## Conférences
+
+[Consulter la liste de mes conférences sur mon site perso](https://emmanuelle-aboaf.netlify.app/conferences)
 
 ### Vidéos 
 
