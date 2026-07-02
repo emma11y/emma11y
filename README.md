@@ -19,5 +19,5 @@ Consulter mon [site perso](https://emmanuelle-aboaf.netlify.app/)
 
 ### Mes repos GitHub que vous pouvez forker
 
-- [https://github.com/emma11y/tester-a11y](Comment concevoir et tester un site accessible ?)
-- [https://github.com/emma11y/mob-a11y](Quand l'accessibilité rencontre le Mob : pratiquer, tester, corriger ensemble)
+- [Comment concevoir et tester un site accessible ?](https://github.com/emma11y/tester-a11y)
+- [Quand l'accessibilité rencontre le Mob : pratiquer, tester, corriger ensemble](https://github.com/emma11y/mob-a11y)
