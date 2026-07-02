@@ -11,10 +11,7 @@ Je suis également conférencière et [Leadeuse Yeeso Paris](https://yeeso.fr/).
 Consulter mon [site perso](https://emmanuelle-aboaf.netlify.app/)
 
 ### Réseaux sociaux
-
-- [Twitter](https://twitter.com/eaboaf_)
 - [LinkedIn](https://www.linkedin.com/in/emmanuelle-aboaf/)
-- [Mastodon](https://a11y.info/@eaboaf)
 - [BlueSky](https://bsky.app/profile/eaboaf.bsky.social)
 
 ### Mes repos GitHub que vous pouvez forker
